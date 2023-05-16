@@ -52,7 +52,6 @@
           <br>
           <button type="submit" class="btn btn-primary btn-md">Submit</button>
           <button type="reset" class="btn btn-warning btn-md">Reset</button>
-          <button type="cancel" class="btn btn-danger btn-md">Cancel</button>
         </form>
       </div>
     </div>
