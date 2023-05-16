@@ -46,7 +46,7 @@
         if (empty($data_array)) {
         ?>
           <div class="alert alert-danger mt-2">
-            Data Masih Kosong !!
+            Tabel Masih Kosong !!
           </div>
         <?php  
         }
